@@ -9,6 +9,7 @@ https://pacific-headland-41437.herokuapp.com/
 RUTAS
 
 Sesion:
+
 POST /user/register
 Toma como input: {"user":UserName, "password":Password, "email":email}
 
