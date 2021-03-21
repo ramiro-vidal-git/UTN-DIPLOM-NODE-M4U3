@@ -4,7 +4,9 @@ Todos los usuarios tienen acceso a todos los contactos almacenados en la base de
 
 La app esta deployada en el siguiente servidor para realizarle peticiones HTTP (i.e con Postman): 
 
-Rutas:
+https://pacific-headland-41437.herokuapp.com/
+
+RUTAS
 
 Sesion:
 POST /user/register
